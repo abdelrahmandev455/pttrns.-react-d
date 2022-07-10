@@ -1,0 +1,25 @@
+.nav{
+  padding:1rem 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content:flex-end;
+}
+.black{
+  margin-right: 1rem;
+  font-weight: 600;
+  padding:0.5rem 1rem;
+  background: black;
+  color:white;
+  border:none;
+  border-radius: 5px;
+}
+
+.white{
+  margin-right: 1rem;
+  font-weight: 600;
+  padding:0.5rem 1rem;
+  background: white;
+  border:2px solid gray;
+  border-radius: 5px;
+  color:black;
+}

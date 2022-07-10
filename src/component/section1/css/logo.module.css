@@ -1,0 +1,11 @@
+img{
+  width:8rem;
+}
+.logo{
+  padding:2rem 0rem 2rem 5rem;
+}
+@media (max-width:500px){
+  .logo{
+    padding:2rem 0rem 2rem 2rem;
+  }
+}

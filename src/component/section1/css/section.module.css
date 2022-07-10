@@ -1,0 +1,8 @@
+.section{
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  gap:1rem;
+  background: white;
+  box-shadow: 5px 5px 5px lightgray;
+}

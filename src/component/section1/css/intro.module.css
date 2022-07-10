@@ -1,0 +1,21 @@
+.intro{
+  padding:2rem 0rem 0rem 5rem;
+}
+
+.intro>p{
+  font-size:5rem;
+  font-weight: 600;
+}
+.intro>p>span{
+  background:linear-gradient(to right,orange,#e33c46,#5b2ad3,#7018c3);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+@media (max-width:500px){
+  .intro>p{
+    font-size: 2rem;
+  }
+  .intro{
+    padding:2rem 0rem 2rem 2rem;
+  }
+}
