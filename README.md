@@ -1,7 +1,8 @@
-# Pttrns-react-beginner
+# Pttrns-react-d
 
 ## Description 
 Here I made a basic react website as only a design.
+to learn how to make component.
 
 ## Infos
 - Name: Pttrns. Design
